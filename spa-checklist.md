@@ -5,11 +5,11 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 ## Legal
 
  - [ ] Licences of my app's 3rd-party dependencies are not violated
- - [ ] My app does not violate cryptography policies and laws  
+ - [ ] My app does not violate cryptography policies and laws
  - [ ] My app is compliant according to the organisation standards
 
 ## Accessibility
- 
+
  - [ ] My app is accessible
     - [ ] Colors and contrast are color-blind friendly OR there is a possiblity to switch to high-contrast mode
     - [ ] My app is screenreader-friendly
@@ -43,7 +43,7 @@ This is a checklist for browser-based Web App **without the backend** or with a 
 
  - [ ] My app does not have memory leaks
  - [ ] My app is passing performance tests with high grades
-    - [ ] [PageSpeed](https://developers.google.com/speed/pagespeed/) 
+    - [ ] [PageSpeed](https://developers.google.com/speed/pagespeed/)
     - [ ] [YSlow](http://yslow.org/)
     - [ ] Chrome Dev Tools Audit
  - [ ] My app is loading in less than 3 seconds
